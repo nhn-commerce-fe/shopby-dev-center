@@ -1,0 +1,7 @@
+{
+  "versionGroups": [
+    { "id": "vanilla", "label": "개별형", "description": "개별형 스킨" },
+    { "id": "aurora", "label": "통합형", "description": "통합형 스킨" }
+  ],
+  "shardCounts": { "aurora": 0, "vanilla": 0 }
+}
